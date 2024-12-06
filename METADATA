@@ -1,0 +1,9 @@
+schema:
+  version: 1
+---
+reviewers:
+  groups:
+    - software_networking
+owner:
+  name: software_networking
+  managerEmail: Sangeeta Kundu <skundu12@uber.com>
